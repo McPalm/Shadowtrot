@@ -629,7 +629,13 @@
               <accuracy>Physical</accuracy>
               <source>SR5</source>
               <page>69</page>
-            </naturalweapon>
+        </naturalweapon>
+        <enabletab>
+          <name>critter</name>
+        </enabletab>
+        <enableattribute>
+              <name>MAG</name>
+            </enableattribute>>
       </bonus>
       <source>SR5</source>
       <page>69</page>
