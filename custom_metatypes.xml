@@ -4,7 +4,7 @@
     <category>Equestria</category>
   </categories>
   <metatypes>
-    <!-- Region Metahuman -->
+    <!-- Region Metaequinity -->
 
     <!-- EARTH PONY-->
     <metatype>
@@ -559,13 +559,15 @@
       <page>69</page>
 
       <qualities>
-        <quality>Double Jointed</quality>
+        <positive>
+          <quality>Double Jointed</quality>
           <quality>Resistance to Pathogens</quality>
           <quality>Resistance to Toxins</quality>
+        </positive>
       </qualities>
     </metatype>
 
-    <!-- ZEBRA-->
+    <!-- DRAGON-->
     <metatype>
       <id>115fef74-e49d-451c-9355-465cd1285056</id>
       <name>Dragon</name>
