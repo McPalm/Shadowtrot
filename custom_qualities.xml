@@ -1,0 +1,30 @@
+<chummer>
+  <version>0</version>
+  <qualities>
+    <quality>
+      <id>2a41fa77-8a14-4381-9fbe-82f5b6fe5c3c</id>
+      <name>Telekinesis</name>
+      <karma>5</karma>
+      <category>Positive</category>
+      <bonus />
+      <hidden />
+      <metagenetic>True</metagenetic>
+      <source>SR5</source>
+      <page>69</page>
+    </quality>
+
+    <quality>
+      <id>9be719ef-3b82-4d69-819d-90740c35f75e</id>
+      <name>Crystalline Hide</name>
+      <karma>5</karma>
+      <category>Positive</category>
+      <bonus>
+        <armor>1</armor>
+      </bonus>
+      <hidden />
+      <metagenetic>True</metagenetic>
+      <source>SR5</source>
+      <page>69</page>
+    </quality>
+  </qualities>
+</chummer>
