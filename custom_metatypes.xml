@@ -571,7 +571,7 @@
     <metatype>
       <id>115fef74-e49d-451c-9355-465cd1285056</id>
       <name>Dragon</name>
-      <karma>65</karma>
+      <karma>55</karma>
       <category>Equestria</category>
       <bodmin>3</bodmin>
       <bodmax>8</bodmax>
@@ -630,13 +630,16 @@
               <source>SR5</source>
               <page>69</page>
         </naturalweapon>
-        <enabletab>
-          <name>critter</name>
-        </enabletab>
         <enableattribute>
               <name>MAG</name>
             </enableattribute>>
       </bonus>
+      <qualities>
+        <positive>
+          <quality>Dragons Breath</quality>
+          <quality>Dermal Alteration (Dragon Skin)</quality>
+        </positive>
+      </qualities>
       <source>SR5</source>
       <page>69</page>
 

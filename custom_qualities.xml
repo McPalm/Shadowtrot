@@ -26,5 +26,29 @@
       <source>SR5</source>
       <page>69</page>
     </quality>
+
+    <quality>
+      <id>c6c6bae9-af25-4f8c-b6fb-c5abfc5037f3</id>
+      <name>Dragons Breath</name>
+      <karma>5</karma>
+      <category>Positive</category>
+      <bonus>
+        <naturalweapon>
+          <name>Fire Breath</name>
+              <range>0</range>
+              <type>Ranged</type>
+              <damage>(MAGx2)P</damage>
+              <ap>-MAG</ap>
+              <useskill>Exotic Ranged Weapon</useskill>
+              <accuracy>Physical</accuracy>
+              <source>SR5</source>
+              <page>69</page>
+        </naturalweapon>
+      </bonus>
+      <hidden />
+      <metagenetic>True</metagenetic>
+      <source>SR5</source>
+      <page>69</page>
+    </quality>
   </qualities>
 </chummer>
