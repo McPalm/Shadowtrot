@@ -50,5 +50,24 @@
       <source>SR5</source>
       <page>69</page>
     </quality>
+    <quality>
+      <id>c4c6bae9-af24-4f8c-b6fb-c3bbfc5037f3</id>
+      <name>Cyberdaemon</name>
+      <karma>0</karma>
+      <category>Positive</category>
+      <limit>99</limit>
+      <requires>
+        <quality>Resonant Stream: Cyberadept</quality>
+      </requires>
+      <bonus>
+        <specificattribute>
+          <name>RES</name>
+          <max>1</max>
+          <min>1</min>
+        </specificattribute>
+      </bonus>
+      <source>SR5</source>
+      <page>69</page>
+    </quality>
   </qualities>
 </chummer>
